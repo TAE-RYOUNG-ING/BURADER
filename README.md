@@ -2,7 +2,8 @@
   
   # 🫗 BURADER 🍶 
   **희석식 소주 스마트팩토리 제조 실행 시스템 (MES)** <br>
-  <!-- <img src="https://github.com/TAE-RYOUNG-ING/BURADER_DEV/assets/131628980/6ff28787-1238-4d56-a123-a4be674f5687" width="300" height="100"/> 
+  <!-- <img src="https://github.com/TAE-RYOUNG-ING/BURADER/assets/131628980/d1281af6-14bd-4510-86ef-e087377d745b" width="300" height="100"/> 
+  ![screencapture-localhost-8088-main-2023-10-01-13_42_40](https://github.com/TAE-RYOUNG-ING/BURADER/assets/131628980/33cebe12-5409-4b37-94f3-5c3cd082e288)
   <br><br><br> -->
 </div>
 <br><br><br>
